@@ -1,16 +1,28 @@
-# qr_scanner
+# QR Saver: Scan & Save QR Codes
 
-A new Flutter project.
+## :dart: About ##
 
-## Getting Started
+Discover the easiest way to scan, save, and manage your QR codes with QR Saver! This sleek and user-friendly app allows you to scan QR codes seamlessly and save them as images directly in your gallery. Perfect for storing important QR codes, sharing them with others, or accessing them anytime, anywhere.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## :rocket: Technologies ##
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+The following tools were used in this project:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Flutter](https://flutter.dev/)
+
+
+## :checkered_flag: Starting ##
+
+```bash
+# Clone this project
+$ git clone https://github.com/mohitj2401/barcode_scan_and_save
+
+# Access
+$ cd barcode_scan_and_save
+
+# Install dependencies
+$ flutter pub get
+
+# Run
+$ flutter run
